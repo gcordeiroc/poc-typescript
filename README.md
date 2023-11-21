@@ -1,0 +1,1 @@
+A basic app for me to learn typescript structure.
